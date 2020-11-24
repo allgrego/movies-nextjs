@@ -1,5 +1,5 @@
 {
-  "name": "devterox",
+  "name": "movies-nextjs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
     "next": "10.0.2",
     "react": "17.0.1",
     "react-dom": "17.0.1"
